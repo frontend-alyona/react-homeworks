@@ -1,18 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Ubuntu:wght@400;700&display=swap');
 
-.wrapper{
+/* .wrapper{
   background-color: aliceblue;
   padding: 50px;
   display: flex;
+  color: blue;
 }
 .wrapper div{
   margin-left: 20px;
   
-}
-.tips-page{
-  padding-top: 50px;
+} */
+
+.timer-num{
   color: blue;
-  
+  font-size: 30px;
+  font-weight: 500;
 }
 
 

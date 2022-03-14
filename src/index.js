@@ -1,14 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import PageControl from './App.js'
+// import Timer from './homework2.js';
+// import Form from './homework2.js';
+import App from './homework2.js'
 
 
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <PageControl/>
+    <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
